@@ -1,6 +1,6 @@
-n1=100
-n2=200
+num1=100
+num2=200
 
-result=n1+n2
+result=num1+num2
 
 print(result)
